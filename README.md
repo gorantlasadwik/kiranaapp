@@ -2,11 +2,77 @@
 
 > A production-grade, offline-first hybrid Point of Sale ecosystem built for Indian grocery stores. It runs as an Android APK on your phone and as a web application on your PC, both syncing in real-time through Supabase.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-6.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-8-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-APK-34A853?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-Llama--3.3-FF6B35?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Gemini_Vision-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-State_Manager-FF9900?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/jsPDF-PDF_Generator-C8102E?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bluetooth-ESC%2FPOS_Printer-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
+</p>
+
 ---
 
 ## 📱 App Overview
 
 Sai Ram Kirana POS is a full-featured store management system built with **React + TypeScript (Vite)**, compiled natively to Android via **Capacitor**, and backed by **Supabase** (PostgreSQL + Realtime + Storage). The system is designed for a real kirana (grocery) store environment — fast, multilingual, offline-capable, and fully Bluetooth-printer integrated.
+
+---
+
+## 🏗️ System Architecture
+
+```mermaid
+flowchart TD
+    subgraph DEVICES["📱 Client Devices"]
+        APK["🤖 Android APK\n(Capacitor + React)\nPhone / Tablet"]
+        WEB["🌐 Web Browser\n(Vite Dev Server)\nBilling PC"]
+    end
+
+    subgraph LOCAL_PC["💻 Local Windows PC"]
+        SERVER["🚀 Express Server\nimage_manager_server.js\nPort 3000"]
+        FETCHER["🤖 AI Image Fetcher\nauto_images.js\n--id=productId"]
+        LOCALDB["🗄️ Local SQLite DB\n@capacitor-community/sqlite\nOffline-first store"]
+        PRINTER["🖨️ Bluetooth\nThermal Printer\nESC/POS"]
+    end
+
+    subgraph SUPABASE["☁️ Supabase Cloud"]
+        PGDB[("🐘 PostgreSQL DB\nproducts · barcodes\nbills · khata\ncustomers · settings")]
+        RT["⚡ Realtime\nPostgres Changes\nWebSocket"]
+        STORAGE[("📦 Supabase Storage\nproduct-images bucket\nWebP 300×300")]
+    end
+
+    subgraph AI_PIPELINE["🧠 AI / Search Pipeline"]
+        DDG["🦆 DuckDuckGo\nImage Search"]
+        GOOGLE["🔍 Google Images\ngooglethis"]
+        GROQ["⚡ Groq API\nLlama-3.3-70b\nQuery Generator"]
+        GEMINI["👁️ Gemini Vision\nModel Rotation Pool\n3.5-flash / 3.1-lite / 2.5-lite"]
+    end
+
+    APK -- "Voice Commands\nBarcode Scans\nBill Creation" --> LOCALDB
+    WEB -- "Product Edits\nCategory Mgmt" --> LOCALDB
+    LOCALDB -- "Push Queue\n(online)" --> PGDB
+    PGDB -- "Pull / Merge" --> LOCALDB
+    RT -- "INSERT / UPDATE / DELETE\nevents" --> LOCALDB
+    RT -- "New product INSERT" --> SERVER
+    SERVER -- "spawn" --> FETCHER
+    FETCHER --> DDG
+    FETCHER --> GOOGLE
+    FETCHER --> GROQ
+    GROQ -- "optimized query" --> GOOGLE
+    GOOGLE -- "candidate URLs" --> GEMINI
+    GEMINI -- "✅ approved image" --> STORAGE
+    STORAGE -- "public URL" --> PGDB
+    PGDB -- "image_url updated" --> RT
+    RT -- "sync to all devices" --> APK
+    APK -- "Print Bill\nPrint Barcode" --> PRINTER
+    WEB -- "Test Print" --> PRINTER
+```
 
 ---
 
@@ -383,19 +449,52 @@ node auto_images.js
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology |
-|---|---|
-| Frontend | React 19, TypeScript, Vite 8 |
-| Native App | Capacitor 8 (Android) |
-| Database | Supabase (PostgreSQL + Realtime + Storage) |
-| Local DB | @capacitor-community/sqlite |
-| UI | Vanilla CSS, Lucide React icons |
-| Voice | Native Android SpeechPlugin + Web Speech API |
-| AI/LLM | Groq (Llama-3.3-70b), Google Gemini Vision |
-| Image Search | googlethis, duck-duck-scrape |
-| Barcode | Quagga2 (camera scan), html5-qrcode, jsQR |
-| Print | ESC/POS over Bluetooth Serial |
-| PDF | jsPDF |
-| Fuzzy Search | Fuse.js |
-| Haptics | @capacitor/haptics |
-| State | Zustand |
+### Frontend & Native
+<p>
+  <img src="https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-6.0-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-8.0-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-8.4-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-APK-34A853?style=flat-square&logo=android&logoColor=white" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-Realtime-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-Storage-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-Local_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=node.js&logoColor=white" />
+</p>
+
+### AI & Search
+<p>
+  <img src="https://img.shields.io/badge/Groq-Llama--3.3--70b-FF6B35?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDuckGo-Image_Search-DE5833?style=flat-square&logo=duckduckgo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Image_Search-4285F4?style=flat-square&logo=google&logoColor=white" />
+</p>
+
+### UI, State & Utilities
+<p>
+  <img src="https://img.shields.io/badge/Zustand-State_Manager-FF9900?style=flat-square&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucide-React_Icons-F56565?style=flat-square&logo=lucide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fuse.js-Fuzzy_Search-00ADD8?style=flat-square&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/jsPDF-PDF_Generator-C8102E?style=flat-square&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/canvas--confetti-Celebrations-FFD700?style=flat-square&logo=npm&logoColor=black" />
+</p>
+
+### Hardware & Scanning
+<p>
+  <img src="https://img.shields.io/badge/Bluetooth-ESC%2FPOS_Printer-0082FC?style=flat-square&logo=bluetooth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quagga2-Barcode_Scanner-8B4513?style=flat-square&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5--qrcode-QR_Scanner-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/jsQR-QR_Decoder-000000?style=flat-square&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Haptics-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
+</p>
+
+### Voice & Speech
+<p>
+  <img src="https://img.shields.io/badge/Android-SpeechRecognition_Plugin-34A853?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Speech-API_Fallback-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+</p>
