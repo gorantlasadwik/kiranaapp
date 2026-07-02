@@ -97,9 +97,138 @@ flowchart TD
 
 </div>
 
+
 ---
 
-## 🏠 Home Screen
+## 📸 Screenshots
+
+---
+
+### 🏠 Home & Sync
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/home.jpeg" width="100%" alt="Home Screen" />
+      <br/><sub><b>Home Dashboard</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/databse synchronization when queue is above 10.jpeg" width="100%" alt="Database Sync" />
+      <br/><sub><b>Database Sync (Queue > 10)</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 💳 Billing Terminal
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/billing terminal.jpeg" width="100%" alt="Billing Terminal" />
+      <br/><sub><b>Billing Terminal — Scan / Search</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/billing terminal catlog.jpeg" width="100%" alt="Billing Catalog" />
+      <br/><sub><b>Billing Terminal — Catalog Browser</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/cart.jpeg" width="100%" alt="Cart" />
+      <br/><sub><b>Active Bill / Cart View</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/cart 2.jpeg" width="100%" alt="Cart 2" />
+      <br/><sub><b>Bill Totals & Payment Mode</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/ultra fast barcode scanning in the billing terminal.jpeg" width="100%" alt="Barcode Scanning" />
+      <br/><sub><b>Ultra-Fast Barcode Scanning</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/billing history.jpeg" width="100%" alt="Billing History" />
+      <br/><sub><b>Sales History Log</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 📦 Product & Category Management
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/add product or edit product page.jpeg" width="100%" alt="Add / Edit Product" />
+      <br/><sub><b>Add / Edit Product Page</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/product image manager.jpeg" width="100%" alt="Product Image Manager" />
+      <br/><sub><b>Product Image Manager</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/manage categories.jpeg" width="100%" alt="Manage Categories" />
+      <br/><sub><b>Manage Categories</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/system barcodes.jpeg" width="100%" alt="System Barcodes" />
+      <br/><sub><b>System Barcodes Manager</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 📒 Khata Ledger
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/khata ledger.jpeg" width="100%" alt="Khata Ledger" />
+      <br/><sub><b>Khata — Customer List</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/khata customer account.jpeg" width="100%" alt="Khata Customer Account" />
+      <br/><sub><b>Khata — Customer Account Detail</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 📊 Reports & Settings
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/bussiness reports.jpeg" width="100%" alt="Business Reports" />
+      <br/><sub><b>Analytics & Business Reports</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/pos settings.jpeg" width="100%" alt="POS Settings" />
+      <br/><sub><b>System Settings</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 
 The home screen serves as the central navigation hub for the store manager.
 
