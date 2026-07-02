@@ -22,3 +22,18 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Dev/test/debug files — local only
+debug_salt.js
+diff.txt
+test_output.txt
+test_output_utf8.txt
+star_lines.txt
+product_list.txt
+dump_products.mjs
+list_groq_models.js
+fetch_images.js
+fetch_images_new.py
+eng.traineddata
+test_*.js
+test-*.js
+README.md
