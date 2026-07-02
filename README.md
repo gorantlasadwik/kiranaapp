@@ -97,14 +97,18 @@ flowchart TD
 
 </div>
 
-
 ---
 
-## 📸 Screenshots
+## 🏠 Home Screen
 
----
+The home screen serves as the central navigation hub for the store manager.
 
-### 🏠 Home & Sync
+**Features:**
+- Shows **9 module cards** in a responsive grid, each with an icon, color accent, title, and description
+- **Online/Offline indicator** badge showing real-time connectivity status
+- **Bidirectional Sync banner** with a prominent "Sync Now" button — pulls and pushes latest products, customers, bills, and Khata ledger data to/from Supabase
+- Animated spin state during active sync; shows green "✅ Sync Complete!" on success
+- Deep-link URL hash routing (e.g. `#new_bill`, `#products`, `#khata`) for direct screen access
 
 <div align="center">
 <table>
@@ -115,129 +119,11 @@ flowchart TD
     </td>
     <td align="center" width="50%">
       <img src="ss/databse synchronization when queue is above 10.jpeg" width="100%" alt="Database Sync" />
-      <br/><sub><b>Database Sync (Queue > 10)</b></sub>
+      <br/><sub><b>Sync — Queue > 10 items pending</b></sub>
     </td>
   </tr>
 </table>
 </div>
-
----
-
-### 💳 Billing Terminal
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="ss/billing terminal.jpeg" width="100%" alt="Billing Terminal" />
-      <br/><sub><b>Billing Terminal — Scan / Search</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="ss/billing terminal catlog.jpeg" width="100%" alt="Billing Catalog" />
-      <br/><sub><b>Billing Terminal — Catalog Browser</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="ss/cart.jpeg" width="100%" alt="Cart" />
-      <br/><sub><b>Active Bill / Cart View</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="ss/cart 2.jpeg" width="100%" alt="Cart 2" />
-      <br/><sub><b>Bill Totals & Payment Mode</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="ss/ultra fast barcode scanning in the billing terminal.jpeg" width="100%" alt="Barcode Scanning" />
-      <br/><sub><b>Ultra-Fast Barcode Scanning</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="ss/billing history.jpeg" width="100%" alt="Billing History" />
-      <br/><sub><b>Sales History Log</b></sub>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-### 📦 Product & Category Management
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="ss/add product or edit product page.jpeg" width="100%" alt="Add / Edit Product" />
-      <br/><sub><b>Add / Edit Product Page</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="ss/product image manager.jpeg" width="100%" alt="Product Image Manager" />
-      <br/><sub><b>Product Image Manager</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="ss/manage categories.jpeg" width="100%" alt="Manage Categories" />
-      <br/><sub><b>Manage Categories</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="ss/system barcodes.jpeg" width="100%" alt="System Barcodes" />
-      <br/><sub><b>System Barcodes Manager</b></sub>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-### 📒 Khata Ledger
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="ss/khata ledger.jpeg" width="100%" alt="Khata Ledger" />
-      <br/><sub><b>Khata — Customer List</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="ss/khata customer account.jpeg" width="100%" alt="Khata Customer Account" />
-      <br/><sub><b>Khata — Customer Account Detail</b></sub>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-### 📊 Reports & Settings
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="ss/bussiness reports.jpeg" width="100%" alt="Business Reports" />
-      <br/><sub><b>Analytics & Business Reports</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="ss/pos settings.jpeg" width="100%" alt="POS Settings" />
-      <br/><sub><b>System Settings</b></sub>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-
-The home screen serves as the central navigation hub for the store manager.
-
-**Features:**
-- Shows **9 module cards** in a responsive grid, each with an icon, color accent, title, and description
-- **Online/Offline indicator** badge showing real-time connectivity status
-- **Bidirectional Sync banner** with a prominent "Sync Now" button — pulls and pushes latest products, customers, bills, and Khata ledger data to/from Supabase
-- Animated spin state during active sync; shows green "✅ Sync Complete!" on success
-- Deep-link URL hash routing (e.g. `#new_bill`, `#products`, `#khata`) for direct screen access
 
 ---
 
@@ -289,6 +175,41 @@ The app has a **multilingual, low-latency voice command system** built specifica
 - **Save Without Printing**: Saves bill to local DB without sending to printer
 - Draft bill persistence: If you leave the screen with an active bill, it is saved as a recoverable draft
 
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/billing terminal.jpeg" width="100%" alt="Billing Terminal" />
+      <br/><sub><b>Billing Terminal — Scan / Search Tab</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/billing terminal catlog.jpeg" width="100%" alt="Billing Catalog" />
+      <br/><sub><b>Billing Terminal — Catalog Browser</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/cart.jpeg" width="100%" alt="Cart" />
+      <br/><sub><b>Active Bill / Cart View</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/cart 2.jpeg" width="100%" alt="Cart 2" />
+      <br/><sub><b>Bill Totals & Payment Mode Selector</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/ultra fast barcode scanning in the billing terminal.jpeg" width="100%" alt="Barcode Scanning" />
+      <br/><sub><b>Ultra-Fast Barcode Scanning</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/billing history.jpeg" width="100%" alt="Billing History" />
+      <br/><sub><b>Sales History Log</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 ---
 
 ## 📦 Product Inventory (`products`)
@@ -305,6 +226,21 @@ Full CRUD management of the product catalog.
 - **Edit Product**: Modify any field inline; changes sync to Supabase
 - **Delete Product**: Soft-delete with confirmation dialog
 - Unit selector is smart: shows product-specific units first, then category default units, then generic fallbacks
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/add product or edit product page.jpeg" width="100%" alt="Add / Edit Product" />
+      <br/><sub><b>Add / Edit Product Page</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/product image manager.jpeg" width="100%" alt="Product Image Manager" />
+      <br/><sub><b>Product Image Manager</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -328,6 +264,21 @@ Two-tab screen for managing catalog categories and product images.
   - **Crop Preview**: A golden dashed 1:1 square overlay mask shows exactly how the final cropped product image will look
   - Images are center-cropped to a **300×300 px WebP** on a canvas and uploaded to Supabase Storage
 - **Auto-Fetch Images button**: Triggers the AI image fetcher pipeline for all products without images
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/manage categories.jpeg" width="100%" alt="Manage Categories" />
+      <br/><sub><b>Manage Categories</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/product image manager.jpeg" width="100%" alt="Product Image Manager" />
+      <br/><sub><b>Product Image Manager — Category View</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -355,6 +306,21 @@ Generate custom internal barcodes for products that don't have a physical barcod
 - **Delete**: Remove a system barcode from the database
 - Paginated view for large barcode sets
 
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/ultra fast barcode scanning in the billing terminal.jpeg" width="100%" alt="Barcode Scanning in Action" />
+      <br/><sub><b>Barcode Scanning in Billing Terminal</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/system barcodes.jpeg" width="100%" alt="System Barcodes" />
+      <br/><sub><b>System Barcodes Manager</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 ---
 
 ## 📜 Sales History (`history`)
@@ -369,6 +335,21 @@ A complete log of all bills ever created.
 - **PDF generation**: Download the bill as a formatted PDF
 - **WhatsApp Share**: Generate and share the bill summary via WhatsApp
 - Filter and navigate between bills; referrer-aware back navigation (returns to home or billing terminal depending on how the user arrived)
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/billing history.jpeg" width="100%" alt="Billing History" />
+      <br/><sub><b>Sales History — Full Bill Log</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/cart 2.jpeg" width="100%" alt="Bill Detail" />
+      <br/><sub><b>Bill Detail & Payment Summary</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -389,6 +370,21 @@ A digital version of the traditional Indian "Khata" (credit ledger) for tracking
 - **WhatsApp Share**: Send the ledger statement to the customer
 - Customer search with live filtering across all accounts
 
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="ss/khata ledger.jpeg" width="100%" alt="Khata Ledger" />
+      <br/><sub><b>Khata — Customer List & Balances</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="ss/khata customer account.jpeg" width="100%" alt="Khata Customer Account" />
+      <br/><sub><b>Khata — Customer Account & Transaction History</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 ---
 
 ## 📊 Analytics Reports (`reports`)
@@ -407,6 +403,17 @@ Business intelligence summary screen.
 
 All metrics are computed live from the local database.
 
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="60%">
+      <img src="ss/bussiness reports.jpeg" width="100%" alt="Business Reports" />
+      <br/><sub><b>Analytics & Business Reports Dashboard</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 ---
 
 ## ⚙️ System Settings (`settings`)
@@ -424,6 +431,17 @@ Configure all hardware and integration settings.
   - Toggle auto-reconnect on startup
   - **Test Print**: Send a test receipt to verify the printer connection
   - Adjust QR size parameter for thermal print density
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="60%">
+      <img src="ss/pos settings.jpeg" width="100%" alt="POS Settings" />
+      <br/><sub><b>System Settings — Printer & UPI Configuration</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -477,6 +495,17 @@ Implemented in `src/syncEngine.ts` using Supabase Realtime channels.
 3. **Pull on connect**: On reconnect, the engine pulls the latest remote state and merges it locally
 4. **Realtime subscriptions**: Listens to `postgres_changes` events on all catalog and transaction tables — updates local store instantly without a full pull
 5. **Print job relay**: New print jobs inserted by any device are picked up by the host device automatically via realtime
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="60%">
+      <img src="ss/databse synchronization when queue is above 10.jpeg" width="100%" alt="Sync Queue" />
+      <br/><sub><b>Realtime Sync — Queue Flush in Progress</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
