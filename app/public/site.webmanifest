@@ -1,0 +1,24 @@
+{
+  "name": "Sai Ram Kirana POS",
+  "short_name": "SRK POS",
+  "description": "Offline-First Point of Sale & Billing Terminal for Sai Ram Kirana Store",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0a0f",
+  "theme_color": "#f59e0b",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sai Ram Kirana</string>
+    <string name="title_activity_main">Sai Ram Kirana</string>
+    <string name="package_name">com.gorantlasadwik.synctunes</string>
+    <string name="custom_url_scheme">com.gorantlasadwik.synctunes</string>
+</resources>

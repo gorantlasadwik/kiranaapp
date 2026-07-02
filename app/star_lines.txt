@@ -1,0 +1,58 @@
+364: ✨🚀 Setup Complete! Launching POS...
+1156: ✨✨️ Reprint Label
+1404: ✨👤 Select from Contacts
+3341: const summary = `✨🧾 *${storeName.toUpperCase()} - BILL RECEIPT*
+3356: Thank you for shopping with us! 🙏✨`;
+4378: {isWholesale ? "✨📦 Wholesale" : "✨✨️ MRP"}
+4623: ✨💾 Save Without Printing
+4940: ✨✨️ Voice Engine V4
+5030: ✨🔍 Search by Name or Scan Barcode
+5637: ✨✨
+5704: <span style={{ fontSize: 15 }}>✨✨</span>
+6019: ✨✨️ MRP
+6040: ✨📦 Wholesale
+6097: Change Details ✏️✨
+6340: ✨💾 Save Without Printing
+6405: ✨✨️
+6603: ✨✨
+7511: label={`✨✨ ${selectedAddProduct.display_name} Sizes`}
+7525: label={`${productCat?.measurement_type === "Weight" ? "⚖️" : productCat?.measurement_type === "Volume" ? "✨✨" : "✨✨"} ${productCat?.name || "Category"} Units`}
+7536: <optgroup label="✨✨ Other Units">
+7565: ? "✨✨"
+7566: : "✨✨"}{" "}
+7676: <span style={{ fontSize: 24 }}>✨✨️</span>
+7870: `✨✨ New barcode "${cleanCode}". Pre-filled registration form.`,
+9274: <option value="Volume">✨✨ Volume</option>
+9275: <option value="Bag">✨✨️ Bag</option>
+9276: <option value="Carton">✨✨ Carton</option>
+9277: <option value="Tray">✨✨ Tray</option>
+9278: <option value="Sheet">✨✨ Sheet</option>
+9901: ✨✨️ Listening... Speak product details (e.g., "Sugar weight 1 kg
+10537: ? "✨✨ Sub-Volume Prices"
+10538: : "✨✨ Sub-Unit Prices"}
+10690: {editingProductId ? "✅ Update Product" : "✨✨ Save Product"}
+12013: const summary = `✨🧾 *${storeName.toUpperCase()} - BILL RECEIPT*
+12028: Thank you for shopping with us! 🙏✨`;
+12794: ✨✨
+13929: ✨🗑️ Delete Forever
+14241: ✨✨️
+14615: ✨✨
+14990: previousBillSectionText = `\n✨✨ *Attached Previous Bill Details:*
+15007: const summary = `✨📜 *${storeName.toUpperCase()} - KHATA STATEMENT*
+15018: Please settle the outstanding balance of *Rs. ${activeKhata.balance.toFixed(2)}* at your earliest convenience. ✨✨`;
+15054: const summary = `✨🧾 *${storeName.toUpperCase()} - BILL RECEIPT*
+15069: Thank you for shopping with us! 🙏✨`;
+15738: ✨📞 {currentCustomer?.phone || "No phone"}
+16492: <div style={{ fontSize: 32 }}>✨✨</div>
+16654: ✨👤 Select Customer
+16712: ✨📞 {cust.phone || "No Phone Number"}
+16890: ✨✨
+18066: ✨📷 Detecting QR code...
+18150: ✨🖼️ Upload from Gallery
+18209: ? "✨✨ Connected"
+18211: ? "✨✨ Connecting..."
+18212: : "✨✨ Disconnected"}
+18355: ✨🔄 Reconnect
+18414: {isScanning ? "Scanning..." : "✨✨ Scan Devices"}
+18527: ✨🔑 API Keys &amp; Credentials
+18632: ✨🛠️ Emergency Database Tools

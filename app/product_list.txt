@@ -1,0 +1,610 @@
+COMMODITY | SYS-22672217-1   | 10/- Samosa
+COMMODITY | SYS-22716318-1   | 2/- Chakodhi
+COMMODITY | SYS-22671550-1   | 2/- Local Ballusha
+COMMODITY | SYS-22698185-1   | 20/- Local Murmura Laddu
+BARCODE   | 8901030985829    | 3roses ,250g
+COMMODITY | SYS-22737581-1   | 5/- Kala Jamun
+COMMODITY | SYS-22708399-1   | 5/- Local Khara
+COMMODITY | SYS-22733569-1   | 5/- Mysore Pak
+COMMODITY | SYS-22693050-1   | 5/- Osmania Biscuit
+COMMODITY | SYS-22655978-1   | 5/- Pallipati
+COMMODITY | SYS-22719961-1   | 5/- Son Papadi
+BARCODE   | 8906152260960    | 5/- Sunder Cake
+BARCODE   | 8906007286978    | Aadhar Refined Sunflower Oil 1 L
+BARCODE   | 8901725123123    | Aashirvaad iodized salt 1kg
+BARCODE   | 8909081002779    | Aashirvaad Superior MP Atta 2kg
+BARCODE   | 8901023028434    | Aer powder room freshner Yellow
+BARCODE   | 8901023025082    | Aer Room freshner blue
+BARCODE   | 8901023025068    | Aer Room freshner pink
+COMMODITY | SYS-22605094-1   | Agarbatti 50/-
+BARCODE   | 4987176374165    | Airel Power Gel 1kg
+BARCODE   | 8906007286909    | Alpha Palm Oil
+COMMODITY | SYS-22699093-1   | Amber
+BARCODE   | 8901725117917    | American Club Big
+BARCODE   | 8901725120719    | American Club Garam Big
+BARCODE   | 8902953444318    | American Club Garam small
+BARCODE   | 890295334615     | American Club Small
+COMMODITY |                  | Amla 45/-
+BARCODE   | 8901262090421    | Amul Amulya 5/-
+BARCODE   | 8901262110068    | Amul Sagar Skimmed Milk Powder 500 g
+BARCODE   | 8901262090339    | Amulya Milk Powder 500g
+BARCODE   | 8901262090353    | Amulya Powder 200g
+COMMODITY | SYS-22710367-1   | Anar
+BARCODE   | 8904000901539    | Anchor White 200g
+BARCODE   | 8906021922760    | Apis Himalaya Honey ,50g
+BARCODE   | 8906021922500    | APIs honey 500g
+BARCODE   | 4987176351708    | Ariel Powder 10/-
+BARCODE   | 4987176177612    | Ariel Surf 500g
+BARCODE   | 8909081002885    | Ashirwad 2kg
+BARCODE   | 8901725016838    | Ashirwad Atta 1kg
+BARCODE   | 8909081002168    | Ashirwad chilli powder 500g
+BARCODE   | 8909081003233    | Ashirwad Samiyaa 400g
+BARCODE   | 8908005989004    | Ashoka Powder 20g
+BARCODE   | 8908005989011    | Ashoka Sandalwood Powder,60/-
+BARCODE   | 8908005989028    | Ashoka Taculm Powder 85/-
+BARCODE   | 8908000498976    | Aswini mini100ml
+BARCODE   | 8901207051807    | Babool Toothpaste 100g
+COMMODITY | SYS-22742392-1   | Badam
+BARCODE   | 8906014765961    | Bajaj Almond Drops 95 ml
+COMMODITY | SYS-22700592-1   | Ballusha
+BARCODE   | 8904287000321    | Bambino 1kg
+BARCODE   | 8901242201212    | Bambino Gulab Jamun Powder
+BARCODE   | 8904287001526    | Bambino Pasta 10/-
+BARCODE   | 8904287001106    | Bambino Samiyaa 650g
+COMMODITY | SYS-22684926-1   | Basmati Rice
+BARCODE   | 8906084799811    | Beardo Perfume 150 ml
+BARCODE   | 8908025444538    | Besan 500g
+COMMODITY | SYS-22741449-1   | Besan Loose
+BARCODE   | 8904004400045    | Bhujia sev
+COMMODITY | SYS-22737057-1   | Big Palli
+COMMODITY | SYS-22728715-1   | Big Vimal
+BARCODE   | 8901063163102    | Biscuit 110/-
+COMMODITY | SYS-22690657-1   | Biscuit 42/-
+BARCODE   | 8906152260762    | Biscuit 45/-
+BARCODE   | 8906152266344    | Biscuit 50/-
+BARCODE   | 8909081001147    | Biscuit 55/-
+BARCODE   | 815865000122     | Black Rose
+BARCODE   | 815865000115     | Black Rose Kali Mehandi
+COMMODITY | SYS-22662544-1   | Black Tiili
+BARCODE   | 8901030543944    | BOOST ,200g
+BARCODE   | 8901030818660    | Boost 500g B
+BARCODE   | 8909106018327    | Boost, 5/-
+BARCODE   | 8901725108519    | Bristol
+BARCODE   | 8901063139374    | Britannia BOURBON 60g
+BARCODE   | 8901063325760    | Britannia Toastea Premium Bake Rusk
+BARCODE   | 8909106051966    | Brooke Bond Taj Mahal
+BARCODE   | 8904217500235    | ButterNotty
+COMMODITY | SYS-22724502-1   | C Putana
+BARCODE   | 7622202818424    | Cadbury 5 star 5/-
+BARCODE   | 7622202818295    | Cadbury dairy Milk 5/-
+BARCODE   | 8901393026672    | CenterFresh Jar
+BARCODE   | 8901393024289    | Centerfruit Jar
+COMMODITY | SYS-22658364-1   | Chakodi 145
+BARCODE   | 8901052020485    | Chakra gold 100g
+COMMODITY | SYS-22701744-1   | Chana
+COMMODITY |                  | Chand Biscuit
+BARCODE   | 8901399009020    | Chandrika Soap
+COMMODITY | SYS-22655116-1   | Chena Dal
+BARCODE   | 8902979025836    | Chik Egg Shampoo
+BARCODE   | 8902979002035    | Chik shampoo 1/-
+BARCODE   | 8902979011884    | Chik Shampoo 50p
+COMMODITY | SYS-22727190-1   | Chinna Millmaker
+BARCODE   | 8901023020353    | Chinthol 160/-
+COMMODITY |                  | Chinthol 75 pudha
+BARCODE   | 8901023001734    | Chinthol Shaving Cream
+BARCODE   | 8904215502354    | Chocolate
+COMMODITY | SYS-22711870-1   | Chocolate 300/-
+BARCODE   | 8901023028502    | CINTHOL 40g
+COMMODITY |                  | CINTHOL 40g Pudha
+BARCODE   | 8901725033811    | Classic
+BARCODE   | 8901725307912    | Classic Connect
+BARCODE   | 8902953446916    | Classic Small
+BARCODE   | 8909106084568    | Clinic Plus 1/-
+BARCODE   | 8909106028616    | Clinic Plus 50p
+BARCODE   | 8909106079762    | Clinic Plus Shampoo 175 ml
+BARCODE   | 8909106053632    | Closeup ₹10
+COMMODITY |                  | Closeup ₹10 Pudha
+BARCODE   | 8909106071759    | Closeup 80g
+BARCODE   | 8909106053564    | Closeup Red 150g
+BARCODE   | 8909106071612    | Closeup Toothpaste 45g
+COMMODITY |                  | Closeup Toothpaste 45g Pudha
+BARCODE   | 8901314765338    | Colgate 150g
+BARCODE   | 8901314765314    | Colgate 200gm
+BARCODE   | 8850006958254    | Colgate Active Salt ₹20
+COMMODITY |                  | Colgate Active Salt ₹20 Pudha
+BARCODE   | 8901314009081    | Colgate Active Salt 100g
+BARCODE   | 8901314902443    | Colgate Active Salt 20/-
+COMMODITY |                  | Colgate ACTIVE SALT 200g
+BARCODE   | 8901314765352    | Colgate Dental Cream 100 g
+BARCODE   | 8901314013392    | Colgate powder 100g
+BARCODE   | 8901314786241    | Colgate Toothpaste ₹10
+COMMODITY |                  | Colgate Toothpaste ₹10 Pudha
+BARCODE   | 8901314308085    | Colgate Vedshakti 100g
+BARCODE   | 8901396476146    | Colin ,500ml
+BARCODE   | 8901396465003    | Colin 250ml
+BARCODE   | 8909106022003    | Comfort 210ml
+COMMODITY | SYS-22585657-1   | Cover PC
+BARCODE   | 8908003750064    | Crane Nut
+BARCODE   | 8901751024234    | Cycle  Banusri Agarbatti 15/-
+BARCODE   | 8901751021240    | Cycle Agarbatti
+BARCODE   | 8901751031966    | Cycle Agarbatti 10/- Piece
+COMMODITY |                  | Cycle Agarbatti 15/- Piece
+BARCODE   | 8901751017076    | Cycle Agarbatti 5/- Piece
+BARCODE   | 8901751027655    | Cycle Banusri 25/-
+BARCODE   | 8901751024012    | Cycle Banusri Agarbatti 60/-
+BARCODE   | 8901751024036    | Cycle Banusri Agarbatti Violet
+BARCODE   | 8901751025798    | Cycle Banusri Sambrani 25/-
+BARCODE   | 8901751009965    | Cycle Sambrani
+BARCODE   | 8901207027307    | Daber red100gm
+BARCODE   | 89008706         | Dabur Amla ₹10
+BARCODE   | 89009550         | Dabur Amla Oil 110ml
+COMMODITY |                  | Dabur Lal Powder 150g
+BARCODE   | 8901207029639    | Dabur Lal powder 50g
+COMMODITY |                  | Dabur Red 100g
+BARCODE   | 8901207027253    | Dabur RED 36g
+COMMODITY | SYS-22644327-1   | Dabur Red Manjan 10/-
+BARCODE   | 8901207027321    | dabur red paste 200g
+BARCODE   | 8901207055744    | Dabur Red Powder 100g
+COMMODITY | SYS-22692087-1   | Daniyallu
+BARCODE   | 8904422709034    | Dant Kanti ₹20
+BARCODE   | 8904422708501    | Dant Kanti 200g
+BARCODE   | 8904109494895    | Dant Kanti Fresh 100g
+BARCODE   | 8906069560108    | Dark Chocolate
+BARCODE   | 8904482801877    | Denver
+BARCODE   | 8901248164252    | Dermi cool 50g
+BARCODE   | 8901396350309    | DETTOL 250ML 250ml
+BARCODE   | 8901396350101    | dettol 25ml 40/-
+BARCODE   | 8901396602477    | Dettol Cool Soap 40g
+COMMODITY |                  | Dettol Cool Soap 40g Pudha
+BARCODE   | 8901396315803    | Dettol Handwash 100ml
+BARCODE   | 8901396389675    | Dettol Original Liquid Handwash 675ml
+BARCODE   | 8901396602460    | Dettol Soap
+COMMODITY | SYS-22555322-1   | Diamond
+COMMODITY | SYS-22729600-1   | Diamond Mishri
+BARCODE   | 8908001739016    | Double parrot besan 250g
+BARCODE   | 8901030795589    | Dove Dove Cream Beauty Soap 100g
+BARCODE   | 8909106035812    | Dove Shampoo 1L
+BARCODE   | 8909106054516    | Dove Shampoo 2/-
+BARCODE   | 8908003338804    | Dwibhashi
+BARCODE   | 8908003338255    | Dwibhashi Castor Oil 100ml
+BARCODE   | 8908003338903    | Dwibhashid Soap
+BARCODE   | 8901647344316    | Edison Small
+BARCODE   | 8901647266311    | Edition Old
+BARCODE   | 8901647186312    | Edition Trio
+BARCODE   | 8901647265314    | Editions neo
+COMMODITY | SYS-22678109-1   | Elachi
+BARCODE   | 8904217500853    | Elachi Eclairs
+BARCODE   | 8906041810931    | Elachi Tofiz
+BARCODE   | 8906069560122    | Emily Choclate
+BARCODE   | 8901725951306    | Engage Perfume woman
+BARCODE   | 8901571006854    | ENO 5 g ₹10
+BARCODE   | 8908001616904    | Eta Soap Bar
+BARCODE   | 8901786390151    | Everest Hot & Red Chilli Powder 15gm
+BARCODE   | 8901691019925    | Everyday Bed Light 0.5W
+BARCODE   | 8902102164555    | Exo 10/-
+BARCODE   | 8909106049680    | Fair and Lovely
+BARCODE   | 8909106049673    | Fair and Lovely ₹72
+BARCODE   | 8904013902806    | Farooky Powder
+COMMODITY | SYS-22644364-1   | Finolex Led Buld 9w
+BARCODE   | 8908001158244    | FOGG
+BARCODE   | 8906008812190    | Fortune Sugar
+BARCODE   | 8906035030697    | Freedom Oil 15L Plastic Jar
+BARCODE   | 8906035030055    | Freedom Refined Sunflower Oil 1 l (982 g)
+BARCODE   | 8906035030222    | Freedom Refined Sunflower Oil 500ml
+BARCODE   | 8906035030062    | Freedom Tin 15L
+COMMODITY | SYS-22669822-1   | Fry Palli
+BARCODE   | 8901331003109    | Gadhi Powder10/-
+COMMODITY | SYS-22359517     | Ganga Chai Powder ₹10
+COMMODITY | SYS-22306966     | Ganga Chai Powder ₹10 Piece
+COMMODITY |                  | Ganga Chai Powder ₹10 Pudha
+COMMODITY | SYS-22328385     | Ganga Chai Teapowder ₹5
+COMMODITY |                  | Ganga Chai Teapowder ₹5 Piece
+COMMODITY |                  | Ganga Chai Teapowder ₹5 Pudha
+COMMODITY | SYS-22347263-1   | Ganga Chai Teapowder 100g
+COMMODITY | SYS-22298616-1   | Ganga Tea powder 250g
+BARCODE   | 8901052003891    | Gemini 10/-
+BARCODE   | 8901052021482    | Gemini 100g
+COMMODITY | SYS-22564638-1   | Gemini Beedi
+BARCODE   | 8901331004601    | Ghadhi Surf 1kg
+BARCODE   | 8901331001037    | Ghadi bar 200g
+BARCODE   | 8901331004618    | Ghadi Surf 500g
+BARCODE   | 4987176286215    | Gillette Blade
+BARCODE   | 4987176212474    | Gillette Saloon Blade
+COMMODITY | SYS-22596450-1   | GNS
+BARCODE   | 8901023007477    | godrej 100g
+COMMODITY |                  | godrej 100g Pudha
+BARCODE   | 8901023028670    | Godrej no 1
+COMMODITY |                  | Godrej no 1 Piece
+BARCODE   | 4901424005397    | Godrej Shikakai
+BARCODE   | 8901023003622    | GODRRJ CINTHOL LEMON SOAP 75G 75g
+COMMODITY |                  | GODRRJ CINTHOL LEMON SOAP 75G 75g Pudha
+BARCODE   | 8906023797120    | Gold Drop Sunflower oil 1l
+BARCODE   | 8901725177317    | gold flack big
+BARCODE   | 8901725012915    | Gold Flake King
+BARCODE   | 8901725019914    | Gold Flake Slk
+BARCODE   | 8902953358110    | Gold Flake Slk Small
+BARCODE   | 8902953447319    | Gold Flake Ss
+BARCODE   | 8901725014612    | Gold Flakes Lite
+BARCODE   | 8901023029813    | Good Night Agarbatti
+COMMODITY |                  | Good Night Agarbatti 15/-
+COMMODITY | SYS-22356074-1   | Google Pan
+BARCODE   | 8906010366902    | GRB Buffalo Ghee
+BARCODE   | 8906010366896    | GRB Buffalo Ghee 200ml
+COMMODITY |                  | GRB Buffalo ghee 500ml
+BARCODE   | 8906010360382    | GRB cow ghee 100ml
+BARCODE   | 8901248701105    | Green  jhandu balm 100 g
+COMMODITY | SYS-22702238-1   | Green Batani
+BARCODE   | 8908003338590    | Gulaba Water
+BARCODE   | 8908002972054    | Guntur Karam 500g
+BARCODE   | 8904004403732    | Haldiram Haldiram moong dal
+BARCODE   | 8904004402612    | Haldiram Halke Fulke Blue Salted
+BARCODE   | 8904004400571    | Haldiram Lite Chiwda
+BARCODE   | 8904004403589    | Haldiram Roasted Chana
+BARCODE   | 8904004419719    | Haldiram Rusk 250g
+BARCODE   | 8904004411119    | Haldiram rusky  toast 10/-
+COMMODITY |                  | Haldiram rusky  toast 10/- Carton
+BARCODE   | 8904004403626    | Haldiram Tasty Nuts
+BARCODE   | 8904004402056    | Haldiram's All in one 200 g
+BARCODE   | 8904004400731    | Haldiram's Aloo bhujia 200 gm
+BARCODE   | 8904004400687    | Haldiram's Aloo Bhujia Sev
+BARCODE   | 8904004405415    | Haldiram's Haldiram's Soan Papdi (indian Sweets)
+BARCODE   | 8904004402421    | Haldiram's Halke Fulke Red
+BARCODE   | 8904004401158    | Haldiram's khatta meetha 200g 200g
+BARCODE   | 8904004401554    | Haldiram's Masala Sev Murmura
+COMMODITY |                  | Haldiram's Masala Sev Murmura Piece
+BARCODE   | 8904004400922    | Haldiram's Mixture
+BARCODE   | 8904004403718    | Haldiram's Moong Dal
+BARCODE   | 8904004404630    | haldiram's salted peanuts
+BARCODE   | 8904004407617    | Haldiram's Taka-tak
+BARCODE   | 8904004400014    | Haldirams Bhujia Sev
+BARCODE   | 8904004400236    | Haldirams Soya sticks 20g
+BARCODE   | 8904004402636    | Halke Fulke 5/- Blue
+BARCODE   | 8901393024395    | Happydent Wave
+BARCODE   | 8901393019018    | Happydent White
+BARCODE   | 8901396152002    | Harpic
+BARCODE   | 4987176073433    | Head and Shoulder 72ml
+BARCODE   | 4987176073013    | Head and Shoulder Anti Dandruff
+BARCODE   | 4987176409102    | Head and Shoulder Orange Shampoo
+COMMODITY |                  | Himalaya Baby Powder 100g
+BARCODE   | 8901138012045    | Himalaya Baby Powder 50g
+BARCODE   | 8901138511838    | Himalaya gentle soap
+BARCODE   | 8901138714628    | Himalaya Himalaya Neem & turmeric soap
+COMMODITY |                  | Himalaya Himalaya Neem & turmeric soap Piece
+BARCODE   | 8901157025255    | Hit Fresh Fragrance COCKROAL 125ml
+BARCODE   | 8906021922081    | Honey 1+1
+BARCODE   | 8906135091840    | Honey 15g
+BARCODE   | 8909106070561    | Horlicks 5/-
+BARCODE   | 8909106070585    | Horlicks 500g
+BARCODE   | 8909106074774    | Horlicks,200g
+COMMODITY | SYS-22564144-1   | Hunaman Beedi
+BARCODE   | 8906086591253    | Idly Karam
+BARCODE   | 8906086590300    | Idly Karam Charmainr
+COMMODITY | SYS-22745150-1   | Imly Chintapandhu
+BARCODE   | 8901725008888    | ITC Aashirvad Aata 5kg
+COMMODITY | SYS-22738625-1   | Jai Shree Ram Rice 1 Years
+BARCODE   | 8900031021543    | Jain Poha 500g
+COMMODITY | SYS-22657761-1   | Jaisri Ram Rice 2 Years
+COMMODITY | SYS-22705132-1   | Jajikayya
+COMMODITY |                  | Jaljira Powder
+COMMODITY | SYS-22567928-1   | Janam
+COMMODITY | SYS-22669347-1   | Japatri
+COMMODITY | SYS-22663863-1   | Jasala
+COMMODITY |                  | Javari
+COMMODITY | SYS-22594720-1   | JBS Rose 2/-Bun Cake
+COMMODITY | SYS-22617946-1   | Jbs Sweet Bun cake 1/-
+COMMODITY | SYS-22670348-1   | Jeera
+COMMODITY | SYS-22660153-1   | Jungli Elachi
+BARCODE   | 8901393025118    | Just Jelly Jar
+COMMODITY | SYS-22673676-1   | Kabulli Chana
+COMMODITY | SYS-22733883-1   | Kaja Puri
+COMMODITY | SYS-22670274-1   | Kaju
+COMMODITY | SYS-22654826-1   | Kalanghi
+COMMODITY | SYS-22697859-1   | Karpur Sweet
+BARCODE   | 8902979027014    | Karthika Shampoo 1/-
+COMMODITY | SYS-22684836-1   | Kasturi Methi
+COMMODITY | SYS-22743345-1   | Khajur
+COMMODITY | SYS-22655838-1   | Khopra Kobhari Kudhukallu
+COMMODITY | SYS-22698607-1   | Khopra Powder
+BARCODE   | 8908023762290    | Kima dates
+BARCODE   | 8906014201209    | Kio karpin hair oil 100 ml
+COMMODITY | SYS-22693627-1   | Kismiss
+COMMODITY |                  | kissan mixed fruit jam 200g
+BARCODE   | 8901030831690    | Kissan Mixed Fruit Jam 90g
+BARCODE   | 8901030897542    | kissan tomato ketchup 90g
+COMMODITY | SYS-22710534-1   | Korallu
+BARCODE   | 8901106102310    | Laser Blade Pudha
+COMMODITY | SYS-22742576-1   | Lawng
+BARCODE   | 8901396112006    | Lazol 500ml
+COMMODITY | SYS-22726085-1   | Lemon Salt
+BARCODE   | 8901715030486    | Liberty Agarbatti
+BARCODE   | 8909106071766    | Lifebuoy ₹10
+BARCODE   | 8909106053502    | Lifebuoy Red 125g
+BARCODE   | 8909106079311    | Lifebuoy Soap 100g
+BARCODE   | 8909106011557    | Lifebuoy Turmeric 100g
+COMMODITY |                  | Lip Balm 10ml
+BARCODE   | 8901030783241    | Lipton Green Tea
+BARCODE   | 8901396147008    | Lizal
+BARCODE   | 8901396113003    | Lizol500ml
+COMMODITY | SYS-22729308-1   | Loba Dal
+COMMODITY | SYS-22716277-1   | Local 1/- Murkul 200
+COMMODITY | SYS-22667101-1   | Local 5/- Murkul
+COMMODITY |                  | Local Boondi 4250
+COMMODITY | SYS-22717684-1   | Local Chakodi
+COMMODITY | SYS-22711592-1   | Local Khara 50/-
+COMMODITY | SYS-22732890-1   | Local Murkul 20/-
+COMMODITY | SYS-22727767-1   | Local Rasagulla
+BARCODE   | 8906069519526    | Lolipop 2/-
+COMMODITY | SYS-22741958-1   | Loobha Red
+COMMODITY | SYS-22702047-1   | Loose Millmaker Big Loose
+COMMODITY | SYS-22625712-1   | Loose Noodles
+BARCODE   | 8909106059986    | Lux International 80g
+BARCODE   | 8901030539749    | Lux lux soap 100g
+BARCODE   | 8909106055032    | Lux Pink 39g
+BARCODE   | 8901030539824    | Lux White 100g
+COMMODITY | SYS-22653639-1   | M Dal
+BARCODE   | 8901058017687    | Maggi 15/-
+BARCODE   | 8901058018219    | Maggi 7/-
+BARCODE   | 89080795         | Maggi Maggi masala magic
+BARCODE   | 8901058010749    | Maggie 58/-
+BARCODE   | 8901023018190    | Magic, Godrej Ready to Mix Hand Wash 9g
+COMMODITY |                  | Maharaja Idly Rava 1kg
+COMMODITY | SYS-22638575-1   | Maharaja Kesari Rawa 500g
+BARCODE   | 8909856412314    | Maharaja Maida/Kesari Rawa 1Kg
+BARCODE   | 9875486621039    | Maharaja ragi flour 500g
+COMMODITY |                  | Maharaja Upma Rava 1kg
+COMMODITY | SYS-22725171-1   | Maida Loose
+BARCODE   | 89005408         | Malboro
+BARCODE   | 8901725020354    | Mangaldeep Anusrhri Agarbatti
+BARCODE   | 8906016572383    | Mangaldeep Anysrhri Agarbatti 20/-
+BARCODE   | 8901725710095    | Mangaldeep Sambrani
+BARCODE   | 8906042371035    | Mango Avakaya Pickle10/-
+BARCODE   | 8908017125186    | Manmouji 250g
+COMMODITY | SYS-22683049-1   | Marathi Moogha
+BARCODE   | 89008836         | Marbo Garam
+BARCODE   | 8902102230519    | Margo
+COMMODITY |                  | Margo Soap 100g
+BARCODE   | 89008751         | Marlboro Advance
+BARCODE   | 8906042370427    | Matha Lime Pickle 200g
+BARCODE   | 8906042371783    | Matha Non Veg Curry Paste
+BARCODE   | 8906042371301    | Matha Tomato Pickle500g
+COMMODITY | SYS-22658292-1   | Mc Dal
+BARCODE   | 8906057530908    | Medimix 25g
+BARCODE   | 8906057534692    | Medimix Soap 125g
+BARCODE   | 8906057530854    | Medimix Soap 75g
+BARCODE   | 8902979029025    | Meera Onion Shampoo
+BARCODE   | 8902979023092    | Meera Shampoo
+BARCODE   | 8902347001387    | Meri Chai 100g
+BARCODE   | 8901207055089    | Meswak Toothpaste ₹20
+BARCODE   | 8901207033209    | Meswak Toothpaste 100g
+COMMODITY | SYS-22740857-1   | Methi
+COMMODITY | SYS-22691068-1   | Milk Balls 110/-
+BARCODE   | 8906069560566    | Milk Chocolate
+COMMODITY | SYS-22670662-1   | Miryallu
+BARCODE   | 743966008436     | Mixed Spice Powder
+BARCODE   | 8908017837003    | MO Fresh Atta 1kg
+COMMODITY | SYS-22717806-1   | Moong Dal
+COMMODITY | SYS-22712612-1   | Mota Mishri
+COMMODITY | SYS-22686779-1   | Mota Poha Loose
+COMMODITY | SYS-22689177-1   | Mota Rai
+BARCODE   | 8908017837058    | MP fresh Gold Atta Orange
+COMMODITY | SYS-22700579-1   | MS DAL
+BARCODE   | 8908003338415    | Multani mitti 100g
+COMMODITY |                  | Mysore Sandal Soap
+BARCODE   | 8901287100419    | Mysore Sandal Soap 150 g
+BARCODE   | 8901287100518    | Mysore Sandal Soap 75g
+COMMODITY |                  | Mysore sandal10rs
+BARCODE   | 49220520         | Natraj Saffron 1g
+BARCODE   | 8901248104784    | Navratna oil 45 ml
+BARCODE   | 8908003338330    | Neem oil 80
+BARCODE   | 8908003338941    | Neem Tulsi Soap
+BARCODE   | 8901058014235    | Neslé Maggi 10/-
+BARCODE   | 8901058903959    | Nestlé milkmaid  380 g
+BARCODE   | 8901058009422    | Nestlé munch 5/-
+BARCODE   | 8901058021950    | Nestlé Nestle Milkmaid Mini 190g
+BARCODE   | 8901108145049    | Nirma 500g
+BARCODE   | 8901108145056    | Nirma advance 1 kg
+BARCODE   | 8901108145070    | Nirma Advance 10/-
+BARCODE   | 8901108112287    | Nirma Green Bar
+BARCODE   | 8906081389060    | Non Veg Curry Masala Paste 10/-
+COMMODITY |                  | Non veg curry paste pudha
+BARCODE   | 8904217500655    | Notty Eclairs
+COMMODITY | SYS-22577026-1   | Nut Gold Palli Oil
+BARCODE   | 8901207054525    | Odonil
+BARCODE   | 8908006036035    | Orange Atta 1kg
+BARCODE   | 8908006036141    | Orange Maida 500g
+COMMODITY | SYS-22690551-1   | Osmania 2/-
+BARCODE   | 8904422710153    | Pantanjali Super Dishbar 10₹
+BARCODE   | 4987176234360    | Pantene Shampoo 90 ml
+COMMODITY | SYS-22718150-1   | Paper Poha Chudhawa
+BARCODE   | 8901088000451    | Parachnute 100% Pure Coconut Oil
+BARCODE   | 8901088712668    | Parachute ₹20
+COMMODITY |                  | Parachute ₹20 Pudha
+BARCODE   | 8901088717670    | Parachute Aloe Vera 90ml
+BARCODE   | 8901088207553    | Parachute Ayurvedic Oil
+BARCODE   | 89002940         | Parachute Coconut oil 100ml
+BARCODE   | 8901088076104    | Parachute Jasmine 90ml
+BARCODE   | 8901088045674    | parachute Jasmine oil 190ml
+BARCODE   | 8901088712552    | Parachute Oil ₹10
+COMMODITY |                  | Parachute Oil ₹10 Pudha
+BARCODE   | 8901088050586    | Parachute Parachute Coconut Oil
+BARCODE   | 8901277013064    | Park Avenue Perfume
+BARCODE   | 8901719135088    | Parle Monaco 5/- 140
+BARCODE   | 8904422709751    | Patanjali Aloevera Kanti  Soap
+BARCODE   | 8904422708730    | patanjali Dant Kranti 100g
+COMMODITY | SYS-22707277-1   | Patha
+COMMODITY | SYS-22573377-1   | PC
+BARCODE   | 8901030942716    | Pears Glycerine Soap 75g
+BARCODE   | 8901030871030    | Pears Pears Oil-Clear Glow 75g
+BARCODE   | 8901595863426    | Peri Peri Masala
+BARCODE   | 7622202334504    | Perk 5/-
+BARCODE   | 8906069561693    | Pink Lolipop 2/-
+COMMODITY | SYS-22664806-1   | Pista
+BARCODE   | 8900031020133    | Poha 1kg Packet
+COMMODITY | SYS-22325681-1   | Ponds Cream ₹5
+BARCODE   | 8909106047112    | Ponds Creams Pink
+BARCODE   | 8909106057647    | Ponds Dreamflower 80g
+BARCODE   | 8901030989797    | Ponds Face Wash
+BARCODE   | 8901030989865    | Ponds Facewash Pink
+BARCODE   | 8909106057500    | Ponds Sandal 40g
+BARCODE   | 8906017350171    | Potli Masala
+BARCODE   | 8906015600025    | Prince100ml
+BARCODE   | 8904340702155    | Pulse Jar
+COMMODITY |                  | Putana
+COMMODITY | SYS-22688330-1   | Raj Niwas
+COMMODITY | SYS-22696383-1   | Rajma
+BARCODE   | 8901396161851    | Red harpil
+BARCODE   | 8901030992056    | Red Label 10/-
+COMMODITY |                  | Red Label 10/- Piece
+COMMODITY |                  | Red Label 10/- Pudha
+BARCODE   | 8909106085350    | Red Label 100g
+COMMODITY | SYS-22583319-1   | Red Rose Garlic Paste
+COMMODITY |                  | Red Rose Garlic Paste Sheet
+BARCODE   | 8901207055119    | Red Toothpaste ₹20
+BARCODE   | 8901248701129    | Red Zandu Balm
+BARCODE   | 041414606303     | Revive
+COMMODITY | SYS-22322581-1   | Rex Gold Supari
+BARCODE   | 8909106070479    | Rexona 40/-
+BARCODE   | 8901030968266    | Rin 10/- bar
+BARCODE   | 8901030737091    | Rin 500g b
+BARCODE   | 8909106068230    | Rin Bar ₹20
+BARCODE   | 8909106039858    | Rin Matic 1L
+BARCODE   | 8901030752407    | Rin Surf 1kg
+BARCODE   | 8908009880031    | Ritik Classic Gold
+COMMODITY | SYS-22601293-1   | Rose besan patti
+COMMODITY | SYS-22640558-1   | Rose Chikki Pallipatu
+COMMODITY | SYS-22694594-1   | Rose Jamun 45/-
+COMMODITY | SYS-22678458-1   | Rose Khara 500g
+BARCODE   | 8901041001358    | Rose Pink Wafer 35/-
+BARCODE   | 8901041001402    | Rose Waffer 2/-
+BARCODE   | 8901041001365    | Rose Waffer 35/-
+BARCODE   | 8901041001112    | Rose Waffer Blue 35/-
+BARCODE   | 8906152262193    | Sabudana chiwda
+BARCODE   | 8901088068758    | Saffola Saffola Masala Veggie Twist Oats 38 g
+COMMODITY | SYS-22328298-1   | Sagar Tea 250g
+COMMODITY | SYS-22726559-1   | Sajallu
+BARCODE   | 8901041000757    | Saltino Loose
+BARCODE   | 8904004404210    | Samosa
+BARCODE   | 8901399003219    | Santoor Baby Soap 100g
+BARCODE   | 8901399011016    | SANTOOR Skin Softening Sandal & Almond Milk
+BARCODE   | 8901399007811    | Santoor Soap 39
+COMMODITY |                  | Santoor Soap 39 Piece
+BARCODE   | 9007371004829    | Sensodyne ,Rapid Relief
+BARCODE   | 8901571004089    | Sensodyne Fresh Gel 85/-
+BARCODE   | 8901571004096    | sensodyne fresh mint 75g
+BARCODE   | 8901571004829    | Sensodyne Rapid Relief 40 g
+BARCODE   | 8904319400020    | Sesaoil
+COMMODITY | SYS-22666230-1   | Sha Jeera
+BARCODE   | 8906017671337    | Shalimar Coconut Oil ₹20
+BARCODE   | 8906017674130    | Shalimar Turmeric Powder 100g
+COMMODITY | SYS-22728046-1   | Shamallu
+BARCODE   | 8904079524172    | SleepWell Agarbatti
+COMMODITY |                  | Sleepwell Agarbatti 15/-
+BARCODE   | 8902953358011    | Slk Small
+COMMODITY | SYS-22697145-1   | Small palli
+COMMODITY | SYS-22717245-1   | Small rai
+COMMODITY | SYS-22717659-1   | Small Vimal
+BARCODE   | 8901595863051    | Smith & Jones Pasta Masala 7g
+COMMODITY | SYS-22730989-1   | Sonthi
+COMMODITY | SYS-22658857-1   | Sonuf
+COMMODITY | SYS-22350842-1   | Sony Sounf
+BARCODE   | 8908005035770    | Soya Green 10/-
+BARCODE   | 8908005035756    | Soya Red 10/-
+COMMODITY | SYS-22594651-1   | Sri Sai Kesari Rawa 500g
+COMMODITY | SYS-22725841-1   | Sri Sai Rawa 500g
+COMMODITY | SYS-22662197-1   | Star Phul
+BARCODE   | 8901012165843    | Stayfree ₹37
+COMMODITY |                  | Sugar
+COMMODITY | SYS-22609761-1   | Suman Vermicelli Samiyaa
+BARCODE   | 8904270006804    | Sunder Cake 5/-
+BARCODE   | 8906152260519    | Sunder good morning toast 10/-
+COMMODITY |                  | Sunder good morning toast 10/- Carton
+BARCODE   | 8904270007917    | Sunder Khara 500g
+BARCODE   | 8906152260038    | Sunder Wiggly
+BARCODE   | 8901725018016    | Sunfeast Yippee 10/-
+BARCODE   | 8901725113490    | sunfest 5/-
+BARCODE   | 8908000502970    | Sunpure Sugar
+BARCODE   | 8909106023741    | Sunsilk 80ml
+BARCODE   | 8909106047082    | Sunsilk Shampoo 1/-
+BARCODE   | 8909106023789    | Sunsilk Shampoo 650 ml
+COMMODITY | SYS-22656303-1   | Supari Chaliya
+BARCODE   | 8908001616645    | Super star bar ₹10
+BARCODE   | 8909106047198    | Surf excel  bAr ₹10
+BARCODE   | 4909200404068    | Surf Excel ₹35
+BARCODE   | 8909106074125    | Surf Excel 10/-
+BARCODE   | 8909106006478    | Surf Excel 1kg
+BARCODE   | 8909106050419    | Surf excel matic 1L
+BARCODE   | 8909106006485    | Surf Excel Quick Wash 500g
+COMMODITY | SYS-22684499-1   | T Dal 2
+COMMODITY |                  | T Dal Kandi Pappu
+BARCODE   | 8904004407471    | Taka taka green
+COMMODITY | SYS-22728680-1   | Tarbuj Bhij Big
+COMMODITY | SYS-22726035-1   | Tarbuj Bhij Small
+BARCODE   | 8901052003822    | Tata Agni Tea
+BARCODE   | 8901052034482    | Tata Agni Tea 100g
+COMMODITY |                  | Tata Agni Tea Sheet
+BARCODE   | 8901052020409    | tata Chakra gold 250g
+BARCODE   | 8901052003693    | Tata gold ,250g
+COMMODITY |                  | Tata I Shakti Bag
+BARCODE   | 8904043921013    | Tata I Shakti Salt
+BARCODE   | 8904043901015    | Tata Salt 1 kg
+BARCODE   | 8904043926612    | TATA Salt Himalayan Rock Salt 1 kg
+BARCODE   | 8901052021284    | tata tea gemini 500g
+COMMODITY | SYS-22743815-1   | Testing Salt
+COMMODITY | SYS-22703802-1   | Thine Soda
+BARCODE   | 4902430907712    | Tide 1kg
+BARCODE   | 4987176057396    | Tide 1kg green
+BARCODE   | 4987176373281    | Tide Orange 1kg
+BARCODE   | 4987176373403    | Tide Powder 10/-
+BARCODE   | 4987176396211    | Tide power gel 1kg
+BARCODE   | 8902089201021    | Til Sona 50ml
+BARCODE   | 8902089201038    | Til Sona Oil 100ml
+BARCODE   | 8902089201199    | Til Sona Oil 175ml
+COMMODITY | SYS-22724318-1   | Tilli
+COMMODITY | SYS-22304622-1   | Tirumala Papad
+COMMODITY |                  | Tirumala Papad Pudha
+BARCODE   | 8906081380036    | Tomato Pickle 10/-
+BARCODE   | 8908016986016    | Top Cook Gold Salt 1 kg
+BARCODE   | 8908016986030    | Top Cook Mota Salt 1kg
+COMMODITY |                  | Top Cook Salt 1kg Bag
+BARCODE   | 8901647362310    | Total
+BARCODE   | 8909106085268    | Tresemme Shampoo 2/-
+BARCODE   | 8931226500499    | Udayam Dhaniya Powder 500g
+BARCODE   | 8931226500420    | Udhayam 100g
+BARCODE   | 8931226500468    | Udhayam Tumeric Powder500g
+COMMODITY | SYS-22645250-1   | Udhyam 50g
+BARCODE   | 8902102194934    | Ujala
+BARCODE   | 8902102126980    | Ujala supreme75ml
+BARCODE   | 8906007600880    | Ullas Agarbatti
+COMMODITY | SYS-22656409-1   | Urad Dal
+COMMODITY | SYS-22349888-1   | Vaseline ₹5
+BARCODE   | 8901247571211    | Vasmol33
+BARCODE   | 8901207038464    | Vatika 80ml
+BARCODE   | 8901396601784    | Veet 30g
+BARCODE   | 4987176385611    | Vicks Drops Jar
+BARCODE   | 4987176191359    | Vicks Inhaler
+BARCODE   | 4987176191205    | Vicks VapoRub
+COMMODITY | SYS-22656100-1   | Vicks VapoRub23/-
+BARCODE   | 8909106092563    | Vim 10/-
+BARCODE   | 8909106017993    | Vim 250ml
+BARCODE   | 8901030535697    | Vim bar ₹10
+BARCODE   | 8909106083691    | Vim Bar 480g
+BARCODE   | 8909106088771    | Vim Soap 68 g
+COMMODITY | SYS-22653004-1   | WC Dal
+COMMODITY | SYS-22647906-1   | Wheat
+BARCODE   | 8901030997778    | Wheel 1kg Surf
+BARCODE   | 8901030997723    | Wheel Powder, 500g
+BARCODE   | 4987176319517    | Whisper ₹50
+BARCODE   | 8906069560528    | White Heart Chocolate
+BARCODE   | 946456351245     | Xtra bar 300g
+BARCODE   | 8908004918531    | Xtra surf 500g
+BARCODE   | 8906056351245    | Xxx Bar 35/-
+BARCODE   | 8906056351818    | XXX Matic Liquid 1L
+BARCODE   | 8906056351115    | Xxx surf 10/-
+BARCODE   | 8906056351092    | Xxx surf 1kg green
+BARCODE   | 8906056351108    | Xxx surf 500g
+BARCODE   | 8901725005856    | Yippee 5/-
+BARCODE   | 8904471727492    | Yuthika Lemon Handwash
+BARCODE   | 8904471721612    | Yuthika Neem ₹30
+BARCODE   | 8904227300436    | Zed Black Agarbatti
+BARCODE   | 8904227316239    | Zed Black Pineapple Agarbatti
+BARCODE   | 8904013901052    | Zinda Tilismath 5ml
