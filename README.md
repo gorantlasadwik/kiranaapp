@@ -78,10 +78,12 @@ flowchart TD
 
 ## 🗺️ Application Screens
 
-The app has **10 screens** accessible from the home dashboard:
+<p align="center">The app has <strong>10 screens</strong> accessible from the home dashboard:</p>
+
+<div align="center">
 
 | Screen | Purpose |
-|---|---|
+|:---:|:---|
 | **Home** | Dashboard with module navigation + sync status |
 | **Billing Terminal** | Voice/scan/catalog billing, MRP/Wholesale toggle |
 | **Product Inventory** | Add/edit/delete products, prices, units, aliases |
@@ -92,6 +94,8 @@ The app has **10 screens** accessible from the home dashboard:
 | **Khata Ledger** | Customer credit accounts, voice-based payment entry |
 | **Analytics Reports** | Cash/UPI/Credit sales totals and transaction counts |
 | **System Settings** | Bluetooth printer MAC, UPI QR, store info |
+
+</div>
 
 ---
 
